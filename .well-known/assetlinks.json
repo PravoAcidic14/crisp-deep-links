@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.acidstudio.crisp.staging",
-      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD"]
+      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD", "E8:48:62:36:30:6E:0F:A8:24:54:DB:DC:B7:72:16:58:34:8D:C8:35:A3:D1:DD:F9:3B:ED:B0:11:E4:00:42:4E"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.acidstudio.crisp",
-      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD"]
+      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD", "E8:48:62:36:30:6E:0F:A8:24:54:DB:DC:B7:72:16:58:34:8D:C8:35:A3:D1:DD:F9:3B:ED:B0:11:E4:00:42:4E"]
     }
   }
 ]
