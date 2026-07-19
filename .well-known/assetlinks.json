@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.acidstudio.crisp.staging",
+      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.acidstudio.crisp",
+      "sha256_cert_fingerprints": ["DF:1E:00:DD:77:9D:18:99:14:82:E4:BD:05:BB:F2:68:E7:32:20:C6:7A:B5:4F:C4:66:5A:22:34:3B:B8:D5:AD"]
+    }
+  }
+]
